@@ -1,9 +1,68 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "joyful surprice.sticker"
+    },
+    {
+      "filename" : "Curious.sticker"
+    },
+    {
+      "filename" : "Playful.sticker"
+    },
+    {
+      "filename" : "Mischievous.sticker"
+    },
+    {
+      "filename" : "Skeptical.sticker"
+    },
+    {
+      "filename" : "Sleepy.sticker"
+    },
+    {
+      "filename" : "Annoyed.sticker"
+    },
+    {
+      "filename" : "Startled.sticker"
+    },
+    {
+      "filename" : "Content.sticker"
+    },
+    {
+      "filename" : "Sassy.sticker"
+    },
+    {
+      "filename" : "Hungry.sticker"
+    },
+    {
+      "filename" : "Confused.sticker"
+    },
+    {
+      "filename" : "Excited.sticker"
+    },
+    {
+      "filename" : "Party.sticker"
+    },
+    {
+      "filename" : "Sad.sticker"
+    },
+    {
+      "filename" : "Love-struck.sticker"
+    },
+    {
+      "filename" : "Angry.sticker"
+    },
+    {
+      "filename" : "Shy.sticker"
+    },
+    {
+      "filename" : "smile.sticker"
+    }
+  ]
 }
